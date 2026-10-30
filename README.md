@@ -72,9 +72,19 @@ On the side, I design and build **themed and commercial websites** for businesse
 
 > 👉 Full case studies and live demos: **[erick-kigo-portfolio.vercel.app/projects.html](https://erick-kigo-portfolio.vercel.app/projects.html)**
 
-- 📊 *(Project 1: e.g. Econometric analysis of inflation and exchange rates in Kenya)*
-- 📈 *(Project 2: e.g. Power BI dashboard for sales or market performance)*
-- 🌐 *(Project 3: e.g. Commercial website built for a local business)*
+### ⛽ [Fuel Price Analysis and CPI Correlation (Nairobi, Feb 2024 – Feb 2025)](https://github.com/kygosloth/fuel-cpi-correlation)
+
+Analysed how Super Petrol, Diesel and Kerosene prices relate to the exchange rate, Murban crude, Transport CPI and Energy CPI in Nairobi, using correlation analysis, regression and visualisation.
+
+- 🔗 Fuel prices move together strongly: Super Petrol correlates with Diesel at **0.96** and with Kerosene at **0.96**
+- 🛢️ Super Petrol correlates **0.86** with Murban crude and **0.74** with the exchange rate
+- 📉 Fuel prices show an inverse relationship with Transport and Energy CPI over the period
+- 📐 Regression model: a KSh 5 rise in fuel prices is associated with a **0.48-point fall in CPI** (R² = 0.91)
+- 💡 Policy angles explored: subsidy and policy monitoring to stabilise CPI, and hedging or import diversification to cushion exchange-rate effects
+
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
+
+[📂 View repository](https://github.com/kygosloth/fuel-cpi-correlation) · [🌐 Full write-up](https://erick-kigo-portfolio.vercel.app/projects.html)
 
 ---
 
