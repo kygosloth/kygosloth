@@ -88,6 +88,24 @@ Analysed how Super Petrol, Diesel and Kerosene prices relate to the exchange rat
 
 ---
 
+## 📈 Statistical Visualizations (from my work)
+
+Visuals from my **Fuel Price & CPI analysis**. The full write-up is on my [portfolio](https://erick-kigo-portfolio.vercel.app/projects.html).
+
+<p align="center">
+  <img src="https://erick-kigo-portfolio.vercel.app/images/correlation_fuel_prices.jpg" width="48%" alt="Correlation matrix: fuel prices" />
+  <img src="https://erick-kigo-portfolio.vercel.app/images/correlation_cpi.jpg" width="48%" alt="Correlation matrix: CPI" />
+</p>
+<p align="center">
+  <img src="https://erick-kigo-portfolio.vercel.app/images/exchange_murban.jpg" width="48%" alt="Exchange rate vs Murban crude" />
+  <img src="https://erick-kigo-portfolio.vercel.app/images/fuel_cpi.jpg" width="48%" alt="Fuel prices vs CPI" />
+</p>
+<p align="center">
+  <img src="https://erick-kigo-portfolio.vercel.app/images/regression_coefficients.jpg" width="60%" alt="Regression coefficients" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -98,6 +116,31 @@ Analysed how Super Petrol, Diesel and Kerosene prices relate to the exchange rat
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kygosloth&theme=merko&hide_border=false" />
 </p>
+
+### 📉 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kygosloth&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+### 🧮 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kygosloth&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kygosloth&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kygosloth&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kygosloth&theme=radical" width="48%" />
+</p>
+
+### 🎲 Random Quote (changes on refresh)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -111,7 +154,11 @@ Analysed how Super Petrol, Diesel and Kerosene prices relate to the exchange rat
 
 I'm open to **data analysis, econometric research, dashboard development and web design** projects and collaborations.
 
-📫 *(add your email / LinkedIn here)*
+<p align="center">
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://erick-kigo-portfolio.vercel.app/projects.html"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 <p align="center"><i>"In God we trust. All others must bring data."</i> 📉</p>
 
